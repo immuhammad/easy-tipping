@@ -1,0 +1,8 @@
+{
+  "name": "obonOld",
+  "displayName": "obonOld",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-9439678205936973~7954290561",
+    "ios_app_id": "ca-app-pub-9439678205936973~8512084954"
+  }
+}
